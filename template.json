@@ -19,11 +19,15 @@
       "@graphql-codegen/typescript-operations": "^2.1.4",
       "@mntm/graphql-codegen": "^3.0.1",
       "@types/amplitude-js": "^8.0.1",
+      "@types/node": "^16.7.13",
+      "@types/react": "^17.0.20",
+      "@types/react-dom": "^17.0.9",
       "@vkontakte/eslint-config": "^3.0.0",
       "@vkontakte/vk-miniapps-deploy": "^0.0.25",
       "cross-env": "^7.0.3",
       "editorconfig-checker": "^4.0.2",
-      "eslint-plugin-react-hooks": "^4.2.0"
+      "eslint-plugin-react-hooks": "^4.2.0",
+      "typescript": "^4.4.2"
     },
     "scripts": {
       "start": "react-scripts start",
