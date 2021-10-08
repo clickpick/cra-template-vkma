@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/clickpick/cra-template-vkma/compare/v0.1.3...v0.1.4) (2021-10-08)
+
+
+### Bug Fixes
+
+* **panels:** exports ([1666f0d](https://github.com/clickpick/cra-template-vkma/commit/1666f0de19d12520a4634fb6fefd65115e99d280))
+
 ### [0.1.3](https://github.com/clickpick/cra-template-vkma/compare/v0.1.2...v0.1.3) (2021-10-08)
 
 
