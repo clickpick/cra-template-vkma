@@ -2,7 +2,7 @@ import { FC, useState } from 'react';
 import { PanelSpinner } from '@vkontakte/vkui';
 
 export const AppLoader: FC = (props) => {
-  const [ready, setReady] = useState(false);
+  const [ready] = useState(true);
 
   if (ready) return <>{props.children}</>;
 
