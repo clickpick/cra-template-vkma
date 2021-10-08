@@ -1,8 +1,8 @@
 overwrite: true
 schema:
-  https://tic-tac-go.dokku.mt.ezavalishin.ru/graphql:
+  https://host:
     headers:
-      Authorization: 'VK dmtfYWNjZXNzX3Rva2VuX3NldHRpbmdzPSZ2a19hcHBfaWQ9Nzk1NzE1OCZ2a19hcmVfbm90aWZpY2F0aW9uc19lbmFibGVkPTAmdmtfaXNfYXBwX3VzZXI9MSZ2a19pc19mYXZvcml0ZT0wJnZrX2xhbmd1YWdlPXJ1JnZrX3BsYXRmb3JtPWRlc2t0b3Bfd2ViJnZrX3JlZj1vdGhlciZ2a190cz0xNjMyMjE5Mjk5JnZrX3VzZXJfaWQ9MTMxNjI4MDMmc2lnbj1scmgwV3kxY3VZdm55S2k0WGkxdjI4Wl9iUGwwTVl1MWtocXkwV2VWTTcw'
+      Authorization: 'VK sign'
 documents: './src/graphql/*.ts'
 generates:
   src/generated/graphql.tsx:
