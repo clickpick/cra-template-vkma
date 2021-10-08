@@ -1,4 +1,5 @@
 import { render, unmountComponentAtNode } from 'react-dom';
+import { Init, App } from '../roots';
 
 export const getRoot = () => {
   return document.getElementById('root') as unknown as HTMLDivElement;
@@ -7,7 +8,9 @@ export const getRoot = () => {
 export const mount = () => {
   return new Promise<void>((resolve) => {
     render(
-      <div />,
+      <Init>
+        <App />
+      </Init>,
       getRoot(),
       resolve
     );
