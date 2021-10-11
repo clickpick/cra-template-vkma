@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/clickpick/cra-template-vkma/compare/v0.1.5...v0.1.6) (2021-10-11)
+
+
+### Features
+
+* use @clickpick/eslint-config instead of @vkontakte/eslint-config ([83c28cf](https://github.com/clickpick/cra-template-vkma/commit/83c28cf1b0ed89594e694e98740d13e49c4f609b))
+
 ### [0.1.5](https://github.com/clickpick/cra-template-vkma/compare/v0.1.4...v0.1.5) (2021-10-08)
 
 ### [0.1.4](https://github.com/clickpick/cra-template-vkma/compare/v0.1.3...v0.1.4) (2021-10-08)
