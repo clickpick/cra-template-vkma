@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/clickpick/cra-template-vkma/compare/v0.1.6...v0.1.7) (2021-10-11)
+
+
+### Bug Fixes
+
+* eslint config ([208a2ba](https://github.com/clickpick/cra-template-vkma/commit/208a2ba929684c1a7b303406ede5981c4ec9579a))
+
 ### [0.1.6](https://github.com/clickpick/cra-template-vkma/compare/v0.1.5...v0.1.6) (2021-10-11)
 
 
